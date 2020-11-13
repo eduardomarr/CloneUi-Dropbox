@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/97011486-1ece3f00-151d-11eb-8abe-d617857f6a71.gif">
+  <img src="https://user-images.githubusercontent.com/24718475/99108038-85e38e80-25c5-11eb-9c72-377895944b36.gif">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/97011499-2261c600-151d-11eb-981a-1af54f69905c.gif">
+  <img src="https://user-images.githubusercontent.com/24718475/99108043-867c2500-25c5-11eb-986b-1404b10b3661.gif">
 </p>
 
 <h1>UI Clone - Home Dropbox</h1>
