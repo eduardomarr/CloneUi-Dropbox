@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/99108043-867c2500-25c5-11eb-986b-1404b10b3661.gif">
+  <img src="https://user-images.githubusercontent.com/24718475/99109300-5d5c9400-25c7-11eb-911a-43cd658da226.gif">
 </p>
 
 <h1>UI Clone - Home Dropbox</h1>
@@ -18,4 +18,4 @@
   <li>CSS</li>
 </ul>
 
-<p>Link do site oficial da <a href="https://www.tesla.com/">Tesla</a></p>
+<p>Link do site oficial do <a href="https://www.dropbox.com/">Dropbox</a></p>
